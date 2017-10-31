@@ -115,38 +115,38 @@ nav li {
 	font-size: 20px;
 }
 .storeLinks a {
-	color: #CFBCAC;
+	color: #B3C0C3;
 }
 .storeLinks a:hover {
 	color: #F89737
 }
 #cameraLink {
-	background: url(images/sellcam.jpeg) #000 no-repeat;
+	background: url(images/sellcam.jpeg) #160F11 no-repeat;
 	background-size: auto 270px;
 	top: 0;
 	left: 0;
 }
 #lensLink {
-	background: url(images/shoplens.jpg) #000 no-repeat;
+	background: url(images/shoplens.jpg) #160F11 no-repeat;
 	background-size: auto 270px;
 	top: 0;
 	left: 420px;
 }
 #filmLink {
-	background: url(images/shopfilm.jpg) #000 no-repeat;
+	background: url(images/shopfilm.jpg) #160F11 no-repeat;
 	background-size: auto 270px;
 	top: 320px;
 	left: 0;
 }
 #filterLink {
-	background: url(images/shopfilter.jpg) #000 no-repeat;
+	background: url(images/shopfilter.jpg) #160F11 no-repeat;
 	background-size: auto 270px;
 	top: 320px;
 	left: 420px;
 }
 footer {
 	height: 100px;
-	background: #3C3230;
+	background: rgba(60,50,48,0.9);
 	color: #B3C0C3;
 	font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
